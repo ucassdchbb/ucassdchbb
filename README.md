@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ucassdchbb
-- 👀 I’m interested in bioinformatics
-- 🌱 I’m currently learning ROC curve
+- 👀 I’m interested in Brain-Computer Interface; Human-Centered Artificial Social Intellence, Embodied intelligent Agent, Psychology etc..
+- 🌱 I’m currently learning Python and BCI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
