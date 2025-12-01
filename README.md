@@ -2,7 +2,7 @@
 - 👀 I’m interested in Brain-Computer Interface; Human-Centered Artificial Social Intellence, Embodied intelligent Agent, Psychology etc..
 - 🌱 I’m currently learning Python and BCI
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ...bh00885@surrey.ac.uk
 
 <!---
 ucassdchbb/ucassdchbb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
